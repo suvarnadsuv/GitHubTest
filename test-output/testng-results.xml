@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-17T14:53:43 EDT" name="Suite" finished-at="2023-09-17T14:53:43 EDT" duration-ms="109">
+    <groups>
+    </groups>
+    <test started-at="2023-09-17T14:53:43 EDT" name="Test" finished-at="2023-09-17T14:53:43 EDT" duration-ms="109">
+      <class name="GitHubMaven.Countries1">
+        <test-method signature="ap()[pri:0, instance:GitHubMaven.Countries1@6cf0e0ba]" started-at="2023-09-17T14:53:43 EDT" name="ap" finished-at="2023-09-17T14:53:43 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ap -->
+        <test-method signature="bi()[pri:0, instance:GitHubMaven.Countries1@6cf0e0ba]" started-at="2023-09-17T14:53:43 EDT" name="bi" finished-at="2023-09-17T14:53:43 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bi -->
+        <test-method signature="gu()[pri:0, instance:GitHubMaven.Countries1@6cf0e0ba]" started-at="2023-09-17T14:53:43 EDT" name="gu" finished-at="2023-09-17T14:53:43 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gu -->
+        <test-method signature="pu()[pri:0, instance:GitHubMaven.Countries1@6cf0e0ba]" started-at="2023-09-17T14:53:43 EDT" name="pu" finished-at="2023-09-17T14:53:43 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pu -->
+        <test-method signature="te()[pri:0, instance:GitHubMaven.Countries1@6cf0e0ba]" started-at="2023-09-17T14:53:43 EDT" name="te" finished-at="2023-09-17T14:53:43 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- te -->
+      </class> <!-- GitHubMaven.Countries1 -->
+      <class name="GitHubMaven.Countries2">
+        <test-method signature="jk()[pri:0, instance:GitHubMaven.Countries2@77fbd92c]" started-at="2023-09-17T14:53:43 EDT" name="jk" finished-at="2023-09-17T14:53:43 EDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jk -->
+        <test-method signature="ka()[pri:0, instance:GitHubMaven.Countries2@77fbd92c]" started-at="2023-09-17T14:53:43 EDT" name="ka" finished-at="2023-09-17T14:53:43 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ka -->
+        <test-method signature="ke()[pri:0, instance:GitHubMaven.Countries2@77fbd92c]" started-at="2023-09-17T14:53:43 EDT" name="ke" finished-at="2023-09-17T14:53:43 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ke -->
+        <test-method signature="mh()[pri:0, instance:GitHubMaven.Countries2@77fbd92c]" started-at="2023-09-17T14:53:43 EDT" name="mh" finished-at="2023-09-17T14:53:43 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mh -->
+        <test-method signature="wb()[pri:0, instance:GitHubMaven.Countries2@77fbd92c]" started-at="2023-09-17T14:53:43 EDT" name="wb" finished-at="2023-09-17T14:53:43 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wb -->
+      </class> <!-- GitHubMaven.Countries2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
